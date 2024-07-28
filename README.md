@@ -47,7 +47,6 @@ Açıklama: Belirli bir gruba anında resim gönderir.
 Örnek: /send_photo k1 https://example.com/image.jpg
 Açıklama: k1 kısa ID'li gruba "https://example.com/image.jpg" adresindeki resmi gönderir.
 Notlar:
-
     Grup ID'si Nasıl Bulunur?: Bot bir gruba eklendiğinde, grup ID'sini otomatik olarak tespit eder ve bilinen gruplar listesine ekler.
     Kısa ID Kullanımı: Kısa ID, uzun grup ID'si yerine kullanılabilir. Örneğin, k1 kısa ID'si 123456789 grup ID'sini temsil edebilir.
     Admin Bilgilendirmesi: Mesaj veya resim gönderimi başarılı veya başarısız olduğunda, admin kullanıcıya bilgilendirme mesajı gönderilir.
